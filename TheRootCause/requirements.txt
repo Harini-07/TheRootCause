@@ -23,7 +23,6 @@ brotlipy==0.7.0
 cachelib==0.6.0
 cachetools==5.0.0
 certifi==2020.6.20
-cffi @ file:///C:/ci/cffi_1600699246375/work
 cftime @ file:///D:/bld/cftime_1636281015942/work
 chardet==3.0.4
 click==7.1.2
