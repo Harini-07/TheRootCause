@@ -1,9 +1,22 @@
-name: env
+name: minimal-streamlit-example
 channels:
-  - conda-forge
-  - defaults
+- defaults
+- conda-forge
+- ericmjl
 dependencies:
-  - prophet
-  - osmnx
-  - pip
-prefix: C:\Users\Harini\anaconda3\envs\env
+- python
+- conda
+- pandas
+- numpy
+- matplotlib
+- pip
+- pylint
+- pydocstyle
+- prophet
+- flake8
+- black
+- hvplot
+- bokeh
+- holoviews
+- pip:
+  - streamlit
