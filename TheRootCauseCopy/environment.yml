@@ -9,13 +9,7 @@ dependencies:
 - numpy
 - matplotlib
 - pip
-- pylint
-- pydocstyle
 - prophet
-- flake8
-- black
-- hvplot
-- bokeh
-- holoviews
+- plotly
 - pip:
   - streamlit
