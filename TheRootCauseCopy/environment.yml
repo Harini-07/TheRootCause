@@ -1,8 +1,7 @@
-name: minimal-streamlit-example
+name: env
 channels:
 - defaults
 - conda-forge
-- ericmjl
 dependencies:
 - python
 - conda
